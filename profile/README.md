@@ -17,5 +17,7 @@ La reconnaissance vocale doit pouvoir identifier les intentions de l'utilisateur
 
 ## OCR
 Application de météo vocale
+- [OCR_2025](https://github.com/data-IA-2024/OCR_2025)
+
 
 ![developpeur_en_intelligence_artificielle.jpg](developpeur_en_intelligence_artificielle.jpg)
