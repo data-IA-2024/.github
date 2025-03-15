@@ -25,4 +25,3 @@ Application de prétraitement de factures avec OCR.
 - [OCR_2025](https://github.com/data-IA-2024/OCR_2025)
 - [Arnaud_OCR](https://github.com/data-IA-2024/Arnaud_OCR)
 
-![developpeur_en_intelligence_artificielle.jpg](developpeur_en_intelligence_artificielle.jpg)
