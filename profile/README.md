@@ -2,9 +2,10 @@
 
 Liste des projets réalisés par les étudiants:
 
-## SPAM classifier ![Static Badge](https://img.shields.io/badge/SPAM-red)
+## SPAM classifier ![Badge](https://camo.githubusercontent.com/948775c5d78b009138dc214a6d2f97f96b5182f3969346ad29474fbbe0f547a0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f6c6f676f3d707974686f6e266c6f676f436f6c6f723d666666)
+
 Concevoir un classifieur de détection automatique de SPAM
-- 
+
 ## Neetflox
 Système de recommandation de films
 - [Netfloox_Project_G1](https://github.com/data-IA-2024/Netfloox_Project_G1)
@@ -22,6 +23,6 @@ La reconnaissance vocale doit pouvoir identifier les intentions de l'utilisateur
 ## OCR
 Application de prétraitement de factures avec OCR.  
 - [OCR_2025](https://github.com/data-IA-2024/OCR_2025)
-- [Arnaud_OCR](https://github.com/data-IA-2024/Arnaud_OCR) Arnaud
+- [Arnaud_OCR](https://github.com/data-IA-2024/Arnaud_OCR)
 
 ![developpeur_en_intelligence_artificielle.jpg](developpeur_en_intelligence_artificielle.jpg)
