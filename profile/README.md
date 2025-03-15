@@ -1,6 +1,6 @@
 # Formation DataIA 2024-2026
 
-Liste des projets réalisés par les étudiants:
+Liste des projets réalisés par les étudiants de la formation [data IA](https://gretaformation.ac-orleans-tours.fr/formation/developpeurse-en-intelligence-artificielle-ia) à [MAME](https://mame-tours.com/).
 
 ## OCR (Mars 2025)
 ![badge](https://img.shields.io/badge/python-white?logo=python&logoColor=white&color=%233776AB)
@@ -9,8 +9,8 @@ Liste des projets réalisés par les étudiants:
 ![badge](https://img.shields.io/badge/Azure_Vision-white?color=%230072c6)
 ![badge](https://img.shields.io/badge/tesseract-white?logoColor=white&color=black)
 Application de prétraitement de factures avec OCR.
-- [OCR_2025](https://github.com/data-IA-2024/OCR_2025)
-- [Arnaud_OCR](https://github.com/data-IA-2024/Arnaud_OCR)
+- [OCR_2025](https://github.com/data-IA-2024/OCR_2025) (private)
+- [Arnaud_OCR](https://github.com/data-IA-2024/Arnaud_OCR) (public)
 
 ## Vocal weather (Février 2025)
 ![Badge](https://camo.githubusercontent.com/948775c5d78b009138dc214a6d2f97f96b5182f3969346ad29474fbbe0f547a0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f6c6f676f3d707974686f6e266c6f676f436f6c6f723d666666)
