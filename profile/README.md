@@ -4,9 +4,10 @@ Liste des projets réalisés par les étudiants:
 
 ## OCR (Mars 2025)
 ![badge](https://img.shields.io/badge/python-white?logo=python&logoColor=white&color=%233776AB)
+![badge](https://img.shields.io/badge/python_Framework-FastAPI-white?logo=python&logoColor=white&color=%2305998b)
 ![badge](https://img.shields.io/badge/postgresql-white?logo=postgresql&logoColor=white&color=#4169E1)
 ![badge](https://img.shields.io/badge/Azure_Vision-white?color=%230072c6)
-![badge](https://img.shields.io/badge/tesseract-white?logoColor=white&)
+![badge](https://img.shields.io/badge/tesseract-white?logoColor=white&color=black)
 Application de prétraitement de factures avec OCR.
 - [OCR_2025](https://github.com/data-IA-2024/OCR_2025)
 - [Arnaud_OCR](https://github.com/data-IA-2024/Arnaud_OCR)
