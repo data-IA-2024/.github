@@ -2,6 +2,16 @@
 
 Liste des projets réalisés par les étudiants de la formation [data IA](https://gretaformation.ac-orleans-tours.fr/formation/developpeurse-en-intelligence-artificielle-ia) à [MAME](https://mame-tours.com/).
 
+## Prédiction domotique avec Jeedom & Smartome 🏠🔮 (Avril 2025)
+![Badge](https://img.shields.io/badge/github-%23181717?logo=github)
+![badge](https://img.shields.io/badge/python-white?logo=python&logoColor=white&color=%233776AB)
+![badge](https://img.shields.io/badge/python_Framework-FastAPI-white?logo=python&logoColor=white&color=%2305998b)
+![badge](https://img.shields.io/badge/postgresql-white?logo=postgresql&logoColor=white&color=%234169E1)
+
+**Objectif** : Optimiser la consommation energétique de batiment avec utilisation de données domotiques (JEEDOM)
+
+**Description** : Utiliser les données domotique pour optimiser les heures d'alumage de chauffage et ainsi réduire la consommation.
+
 ## Développer une Interface OCR avec Azure 🌐🤝 (Mars 2025)
 ![Badge](https://img.shields.io/badge/github-%23181717?logo=github)
 ![badge](https://img.shields.io/badge/python-white?logo=python&logoColor=white&color=%233776AB)
