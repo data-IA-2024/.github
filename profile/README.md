@@ -16,6 +16,8 @@ Liste des projets réalisés par les étudiants de la formation [data IA](https:
 
 **Description** : Utiliser les données domotique pour optimiser les heures d'alumage de chauffage et ainsi réduire la consommation.
 
+- [P4 Smartome](https://github.com/data-IA-2024/P4_smartome)
+
 ## Développer une Interface OCR avec Azure 🌐🤝 (Mars 2025)
 ![Badge](https://img.shields.io/badge/github-%23181717?logo=github)
 ![badge](https://img.shields.io/badge/python-white?logo=python&logoColor=white&color=%233776AB)
