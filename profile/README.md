@@ -2,6 +2,20 @@
 
 Liste des projets réalisés par les étudiants de la formation [data IA](https://gretaformation.ac-orleans-tours.fr/formation/developpeurse-en-intelligence-artificielle-ia) à [MAME](https://mame-tours.com/).
 
+## MOOC 💬🤖 (Mai 2025)
+![Badge](https://img.shields.io/badge/github-%23181717?logo=github)
+![badge](https://img.shields.io/badge/python-white?logo=python&logoColor=white&color=%233776AB)
+![badge](https://img.shields.io/badge/python_Framework-FastAPI-white?logo=python&logoColor=white&color=%2305998b)
+![badge](https://img.shields.io/badge/postgresql-white?logo=postgresql&logoColor=white&color=%234169E1)
+![badge](https://img.shields.io/badge/Docker-white?logo=docker&logoColor=white&color=%232496ED)
+![badge](https://img.shields.io/badge/Discord-white?logo=discord&logoColor=white&color=%235865F2)
+![badge](https://img.shields.io/badge/JSON-white?logo=json&logoColor=white&color=%23000000)
+![badge](https://img.shields.io/badge/MongoDB-white?logo=mongodb&logoColor=white&color=%47A248)
+
+**Objectif** : Monitorer les forums de discussion
+
+**Description** : Faire des analyses de fils de discussion de forum de MOOC
+
 ## Prédiction domotique avec Jeedom & Smartome 🏠🔮 (Avril 2025)
 ![Badge](https://img.shields.io/badge/github-%23181717?logo=github)
 ![badge](https://img.shields.io/badge/python-white?logo=python&logoColor=white&color=%233776AB)
